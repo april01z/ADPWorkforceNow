@@ -32,7 +32,7 @@ To get started with ADPWorkforceNow, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ADPWorkforceNow.git
+   git clone https://github.com/april01z/ADPWorkforceNow.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd ADPWorkforceNow
